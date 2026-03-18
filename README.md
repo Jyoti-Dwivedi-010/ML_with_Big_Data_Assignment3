@@ -143,8 +143,7 @@ MLBD/
 │   ├── ratings.csv
 │   ├── tags.csv
 │   ├── links.csv
-│   └── README.txt
-└── .ipynb_checkpoints
+└── README.txt
 ```
 
 ### Notes
