@@ -134,13 +134,17 @@ pip install numpy pandas matplotlib seaborn scikit-learn scipy scikit-surprise t
 MLBD/
 ├── Recommender_Systems_Assignment.ipynb  # Main notebook
 ├── README.md                              # This file
+├── images folder (output images)
+├── requirements.txt
+├── M25CSA010_CSL7110_Assignment3 (report)
+├── CSL7110 Assignment 3 -ML with Big Data( assignment)
 ├── ml-latest-small/                       # Dataset folder
 │   ├── movies.csv
 │   ├── ratings.csv
 │   ├── tags.csv
 │   ├── links.csv
 │   └── README.txt
-└── ml-latest-small.zip                    # Original dataset archive
+└── .ipynb_checkpoints
 ```
 
 ### Notes
