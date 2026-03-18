@@ -133,7 +133,6 @@ pip install numpy pandas matplotlib seaborn scikit-learn scipy scikit-surprise t
 ```
 MLBD/
 ├── Recommender_Systems_Assignment.ipynb  # Main notebook
-├── README.md                              # This file
 ├── images folder (output images)
 ├── requirements.txt
 ├── M25CSA010_CSL7110_Assignment3 (report)
@@ -143,7 +142,7 @@ MLBD/
 │   ├── ratings.csv
 │   ├── tags.csv
 │   ├── links.csv
-└── README.txt
+└── README.md 
 ```
 
 ### Notes
